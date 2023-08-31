@@ -1,0 +1,10 @@
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\bin\Debug\rezervasyon.exe.config
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\bin\Debug\rezervasyon.exe
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\bin\Debug\rezervasyon.pdb
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\obj\Debug\rezervasyon.csproj.AssemblyReference.cache
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\obj\Debug\rezervasyon.Form1.resources
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\obj\Debug\rezervasyon.Properties.Resources.resources
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\obj\Debug\rezervasyon.csproj.GenerateResource.cache
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\obj\Debug\rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\obj\Debug\rezervasyon.exe
+C:\Users\KENT\source\repos\rezervasyon\rezervasyon\obj\Debug\rezervasyon.pdb
